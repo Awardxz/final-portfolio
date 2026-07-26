@@ -3,7 +3,7 @@ import { CascadiaCode } from "@/fonts/fonts";
 export default function AboutMe() {
   return (
     <>
-      <div className={`${CascadiaCode.className} text-[20px] w-98 `}>
+      <div className={`${CascadiaCode.className} text-[25px] w-120`}>
         <p>
           Hi I’m award. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           Donec sed mollis nunc, a eleifend orci. Nunc leo leo, luctus et lorem
