@@ -4,6 +4,7 @@
   --color-unique-black: #090909;
   --color-unique-white: #ffffff;
   --animate-rainbow-swoosh: rainbowAnim 2s linear forwards;
+  --animate-hover-effect: hoverEffect 2s ease-in-out infinite;
 
   @keyframes rainbowAnim {
     0% {
@@ -11,6 +12,18 @@
     }
     100% {
       background-position: -20% 50%;
+    }
+  }
+
+  @keyframes hoverEffect {
+    0% {
+      transform: translateX(0rem);
+    }
+    50% {
+      transform: translateX(0.5rem);
+    }
+    100% {
+      transform: translateX(0rem);
     }
   }
 }
