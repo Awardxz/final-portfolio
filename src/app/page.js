@@ -3,7 +3,7 @@ import MainSection from '@/components/MainSection';
 import Navbar from '@/components/Navbar'
 import Projects from '@/components/Projects';
 import { useRef } from 'react';
-
+import Contact from '@/components/Contact';
 
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
 
   const scrolltoProjects = () => {
     projectsRef.current?.scrollIntoView({
-      behavoir: "smooth",
+      behavior: "smooth",
       block: "start"
     });
   };
@@ -25,7 +25,7 @@ export default function Home() {
       <section ref={projectsRef}>
         <Projects />
       </section>
-   
+      <Contact/>
     </>
 
   );

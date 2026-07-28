@@ -1,0 +1,62 @@
+[
+  {
+    "title": "MoodleAI",
+    "date": "2024",
+    "category": "ai",
+    "shortDesc": "A comprehensive Node.js scraping toolkit for extracting product data from major e-commerce platforms with intelligent category-based processing and robust error handling.",
+    "techStack": ["Node.js", "Cheerio", "Express", "Docker"],
+    "projectLink": "#",
+    "githubLink": "#",
+    "imageUrl": "https://placehold.co/300x300/111/fff?text=MoodleAddI"
+  },
+  {
+    "title": "quizizzAPI",
+    "date": "2024",
+    "category": "tools",
+    "shortDesc": "RESTful API for fetching Quizizz answers and supporting data with fast, reliable performance.",
+    "techStack": ["Node.js", "Express", "REST API", "JSON"],
+    "projectLink": "#",
+    "githubLink": "#",
+    "imageUrl": "https://placehold.co/400x400/111/fff?text=quizizzAPI"
+  },
+  {
+    "title": "quizizzAPII",
+    "date": "2024",
+    "category": "tools",
+    "shortDesc": "RESTful API for fetching Quizizz answers and supporting data with fast, reliable performance.",
+    "techStack": ["Node.js", "Express", "REST API", "JSON"],
+    "projectLink": "#",
+    "githubLink": "#",
+    "imageUrl": "https://placehold.co/400x400/111/fff?text=quizizzAPII"
+  },
+  {
+    "title": "quizizzAPdII",
+    "date": "2024",
+    "category": "tools",
+    "shortDesc": "RESTful API for fetching Quizizz answers and supporting data with fast, reliable performance.",
+    "techStack": ["Node.js", "Express", "REST API", "JSON"],
+    "projectLink": "#",
+    "githubLink": "#",
+    "imageUrl": "https://placehold.co/400x400/111/fff?text=quizizzAPdII"
+  },
+  {
+    "title": "MoodleAAI",
+    "date": "2024",
+    "category": "ai",
+    "shortDesc": "A comprehensive Node.js scraping toolkit for extracting product data from major e-commerce platforms with intelligent category-based processing and robust error handling.",
+    "techStack": ["Node.js", "Cheerio", "Express", "Docker"],
+    "projectLink": "#",
+    "githubLink": "#",
+    "imageUrl": "https://placehold.co/400x400/111/fff?text=MoodleAAI"
+  },
+  {
+    "title": "MoodleAAAI",
+    "date": "2024",
+    "category": "ai",
+    "shortDesc": "A comprehensive Node.js scraping toolkit for extracting product data from major e-commerce platforms with intelligent category-based processing and robust error handling.",
+    "techStack": ["Node.js", "Cheerio", "Express", "Docker"],
+    "projectLink": "#",
+    "githubLink": "#",
+    "imageUrl": "https://placehold.co/400x400/111/fff?text=MoodleAAAI"
+  }
+]
